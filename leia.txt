@@ -1,0 +1,11 @@
+Manual_Func -> 
+Retorna em Json um pequeno tutorial de como usar as 
+Funções deste WebService, podendo passar o *Nome da função, ou se deixar
+em branco, receber informações de todas as funções.
+
+GetNotif -> Função que retorna as Notificações de uma Empresa.
+GetNotifData - > Mesmo retorno da 8GetNotif contendo datas.
+GetSql -> Pode enviar um SQL ANSI e receber notificações.
+PostNotif - > Incluir uma notificação.
+PutNotif  - > Alterar uma notificação.
+DelNotif  - > Deletar uma notificação.
